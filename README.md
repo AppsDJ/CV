@@ -1,4 +1,4 @@
-## Titus Iudean
+### Titus Iudean
 
 A hard working and meticulous graduate web developer, flexible and adaptable to fit in well
 into any working environment. A quick learning self-starter with a creative mind-set and a
@@ -6,7 +6,7 @@ keen interest in recent technologies. A trustworthy and helpful team player and 
 communicator who loves being highly involved and always strives to succeed in whatever is
 undertaken. In search of opportunities to make positive contributions to great software projects in a Junior developer position, while further enhancing personal skillset.
 
-## KEY SKILLS AND ACHIEVEMENTS
+### KEY SKILLS AND ACHIEVEMENTS
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -22,7 +22,7 @@ Photoshop as well as the GIMP (image manipulation).
 - Higher Education Certificate in Computing and Information Systems
 (classification 1st Class with distinction)
 
-#### EMPLOYMENT HISTORY AND EDUCATION
+### EMPLOYMENT HISTORY AND EDUCATION
 ##### Freelance Web Designer
 ( portfolio website at www.appsdj.com )
 
@@ -43,21 +43,23 @@ new domains, uploading newly built web sites.
 - Provided highly efficient sales and business performance analysis on the monthly
 bookings of hotels and holiday packages
 
-- Run reports in Excel to organize analysis reports for presentation to management 
+- Run reports in Excel to organize analysis reports for presentation to management
 
 ## Education
 
 ### Edge Hill University, Ormskirk, UK
 ##### BSc. Honours in Web Systems Development (classification 2:1)
 
-Successfully studied towards and completed the degree programme.  Modules
-studied include Hypermedia, Usability Principles, Web Databases, Web Scripting,
-Mobile Web Development, XML, SEO and Interaction Design. The Final Year Project
-(a Content Management System for a travel agent using XHTML, CSS 2.0, PHP 5,
-MySQL, JavaScript, jQuery) was awarded a 1
-st
- class (A) grade. The Project Proposal
-documentation was awarded a top grade of A* at 100%.
+Successfully studied towards and completed the degree programme.  Modules studied include Hypermedia, Usability Principles, Web Databases, Web Scripting, Mobile Web Development, XML, SEO and Interaction Design. The Final Year Project(a Content Management System for a travel agent using XHTML, CSS 2.0, PHP 5, MySQL, JavaScript, jQuery) was awarded a 1st class (A) grade. The Project Proposal documentation was awarded a top grade of A* at 100%.
+
+### London Metropolitan University – London, UK
+Higher Education Certificate in Computing and Information Systems (classification 1st
+class with distinction)
+
+- Successfully studied toward and completed the undergraduate certification with a 
+distinction. Modules studied include Java Programming, Object-Oriented Analysis
+and Design and Business Information Systems.
+
 
 #### Makers Academy (start_date to end_date)
 

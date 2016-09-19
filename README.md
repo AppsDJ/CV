@@ -1,13 +1,13 @@
-### Titus Iudean
+### Titus Iudean, the Apps DJ
 
-A hard working (I mean, HARD working) and meticulous (not annoyingly, but proper meticulous) graduate web developer / designer, flexible and adaptable to fit in well into most working environments. A quick learning self-starter who's not waiting to be told what needs doing, with a creative mind-set and a keen interest in recent technologies. A trustworthy and helpful team player and effective communicator who loves being highly involved and always strives to succeed in whatever is undertaken. In search of opportunities to make positive contributions to great software projects in a Junior developer position, while further enhancing personal skillset.
+A hard working (I mean, HARD working) and meticulous (not annoyingly, but proper meticulous) graduate web developer / designer, flexible and adaptable to fit in well into most working environments. A quick learning self-starter who's not waiting to be told what needs doing, with a creative mindset and a keen interest in recent technologies. A trustworthy and helpful team player and effective communicator who loves being highly involved and always strives to succeed in whatever is undertaken. In search of opportunities to make positive contributions to great software projects in a Junior developer position, while further enhancing personal skill-set.
 
 ### KEY SKILLS AND ACHIEVEMENTS
 
-- A good eye for detail and persuasive visual design as revealed in the creation of clean web page designs as well as relevant and inspirational graphics
-- Common sense and the ability to think outside the box
+- A good eye for detail and persuasive visual design as revealed in the creation of clean web page designs as well as relevant graphics
+- Bag-loads of common sense and the ability to think outside the box
 - Competent problem solver with a keen analytical and logical mind
-- Effective oral and written communication skills
+- Effective oral and written communication skills 
 - Good web and graphic design skills using HTML, CSS, Adobe Dreamweaver and
 Photoshop as well as the GIMP (image manipulation).
 - Intermediate JavaScript, PHP, MySQL, XML and Java programming skills

@@ -16,7 +16,7 @@ Photoshop as well as the GIMP (image manipulation).
 - Higher Education Certificate in Computing and Information Systems
 (classification 1st Class with distinction)
 
-### EMPLOYMENT HISTORY AND EDUCATION
+## RELEVANT WORK HISTORY
 ##### Freelance Web Designer
 ( portfolio website at www.appsdj.com )
 

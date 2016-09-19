@@ -1,6 +1,5 @@
-# Titus Iudean, the Apps DJ
-
-A hard working (I mean, HARD working) and meticulous (not annoyingly, but proper meticulous) graduate web developer / designer, flexible and adaptable to fit in well into most working environments. A quick learning self-starter who's not waiting to be told what needs doing, with a creative mindset and a keen interest in recent technologies. A trustworthy and helpful team player and effective communicator who loves being highly involved and always strives to succeed in whatever is undertaken. In search of opportunities to make positive contributions to great software projects in a Junior developer position, while further enhancing personal skill-set.
+# Titus Iudean
+A hard working and meticulous web developer / designer, flexible and adaptable to fit in well into most working environments. A quick learning self-starter who's not waiting to be told what needs doing, with a creative mindset and a keen interest in recent technologies. A trustworthy and helpful team player and effective communicator who loves being highly involved and always strives to succeed in whatever is undertaken. In search of opportunities to make positive contributions to great software projects in a Junior Developer position, while further enhancing personal skill-set.
 
 ### KEY SKILLS AND ACHIEVEMENTS
 
@@ -26,14 +25,12 @@ Photoshop as well as the GIMP (image manipulation).
 
 - Dealing with all aspects of web hosting research and implementation: researching market for best web hosting companies, securing domain names and web hosting packages for clients, setting up clients' hosting accounts and e-mail accounts for the new domains, uploading newly built web sites.
 
-- Maintaining and updating existing web sites as and when requested by clients: uploading new graphical, video and textual content, modifying existing material.
-
 ### Lastminute.com  - Hotels Department – London. UK
 ##### Sales and Business Performance Analyst - Summer Studentship
 
 - Provided highly efficient sales and business performance analysis on the monthly bookings of hotels and holiday packages
 
-- Run reports in Excel to organize analysis reports for presentation to management
+- Run analysis reports in Excel for presentation to management
 
 ## EDUCATION
 
@@ -43,7 +40,7 @@ Photoshop as well as the GIMP (image manipulation).
 Successfully studied towards and completed the degree programme.  Modules studied include Hypermedia, Usability Principles, Web Databases, Web Scripting, Mobile Web Development, XML, SEO and Interaction Design. The Final Year Project(a Content Management System for a travel agent using XHTML, CSS 2.0, PHP 5, MySQL, JavaScript, jQuery) was awarded a 1st class (A) grade. The Project Proposal documentation was awarded a top grade of A* at 100%.
 
 ### London Metropolitan University – London, UK
-#### Higher Education Certificate in Computing and Information Systems (classification 1st class with distinction)
+####   Higher Education Certificate in Computing and Information Systems (classification 1st class with distinction)
 
 Successfully studied toward and completed the undergraduate certification with a distinction. Modules studied include Java Programming, Object-Oriented Analysis and Design and Business Information Systems.
 

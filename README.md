@@ -4,10 +4,10 @@ A hard working (I mean, HARD working) and meticulous (not annoyingly, but proper
 
 ### KEY SKILLS AND ACHIEVEMENTS
 
-- A good eye for detail and persuasive visual design as revealed in the creation of clean web page designs as well as relevant graphics
+- Shown good eye for detail and persuasive visual design in the creation of clean web page designs as well as relevant graphics such as those blended in the aesthetics of <a href="http://www.mt.appsdj.com"> Medley Travel's website </a>
 - Bag-loads of common sense and the ability to think outside the box
 - Competent problem solver with a keen analytical and logical mind
-- Effective oral and written communication skills 
+- Effective oral and written communication skills
 - Good web and graphic design skills using HTML, CSS, Adobe Dreamweaver and
 Photoshop as well as the GIMP (image manipulation).
 - Intermediate JavaScript, PHP, MySQL, XML and Java programming skills
@@ -20,22 +20,18 @@ Photoshop as well as the GIMP (image manipulation).
 ##### Freelance Web Designer
 ( portfolio website at www.appsdj.com )
 
-- Creating various web sites according to client specification in a timely manner and to
-a high standard of professionalism, conforming to the highest web standards of usability using valid XHTML, CSS, JavaScript, jQuery and content management systems such as Joomla and CMS Made Simple.
+- Creating various web sites according to client specification in a timely manner and to a high standard of professionalism, conforming to the highest web standards of usability using valid XHTML, CSS, JavaScript, jQuery and content management systems such as Joomla and CMS Made Simple.
 
-- Performing efficient business analysis and market research for clients to support the
-completion of relevant design and development projects.
+- Performing efficient business analysis and market research for clients to support the completion of relevant design and development projects.
 
-- Dealing with all aspects of web hosting research and implementation: researching market for best web hosting companies, securing domain names and web hosting packages for clients, setting up clients' hosting accounts and e-mail accounts for the
-new domains, uploading newly built web sites.
+- Dealing with all aspects of web hosting research and implementation: researching market for best web hosting companies, securing domain names and web hosting packages for clients, setting up clients' hosting accounts and e-mail accounts for the new domains, uploading newly built web sites.
 
 - Maintaining and updating existing web sites as and when requested by clients: uploading new graphical, video and textual content, modifying existing material.
 
 #### Lastminute.com  - Hotels Department – London. UK
 ##### Sales and Business Performance Analyst - Summer Studentship
 
-- Provided highly efficient sales and business performance analysis on the monthly
-bookings of hotels and holiday packages
+- Provided highly efficient sales and business performance analysis on the monthly bookings of hotels and holiday packages
 
 - Run reports in Excel to organize analysis reports for presentation to management
 

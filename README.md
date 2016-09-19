@@ -1,4 +1,4 @@
-### Titus Iudean, the Apps DJ
+# Titus Iudean, the Apps DJ
 
 A hard working (I mean, HARD working) and meticulous (not annoyingly, but proper meticulous) graduate web developer / designer, flexible and adaptable to fit in well into most working environments. A quick learning self-starter who's not waiting to be told what needs doing, with a creative mindset and a keen interest in recent technologies. A trustworthy and helpful team player and effective communicator who loves being highly involved and always strives to succeed in whatever is undertaken. In search of opportunities to make positive contributions to great software projects in a Junior developer position, while further enhancing personal skill-set.
 

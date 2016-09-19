@@ -43,8 +43,7 @@ Photoshop as well as the GIMP (image manipulation).
 Successfully studied towards and completed the degree programme.  Modules studied include Hypermedia, Usability Principles, Web Databases, Web Scripting, Mobile Web Development, XML, SEO and Interaction Design. The Final Year Project(a Content Management System for a travel agent using XHTML, CSS 2.0, PHP 5, MySQL, JavaScript, jQuery) was awarded a 1st class (A) grade. The Project Proposal documentation was awarded a top grade of A* at 100%.
 
 ### London Metropolitan University – London, UK
-##### Higher Education Certificate in Computing and Information Systems (classification 1st
-class with distinction)
+##### Higher Education Certificate in Computing and Information Systems (classification 1st class with distinction)
 
 Successfully studied toward and completed the undergraduate certification with a distinction. Modules studied include Java Programming, Object-Oriented Analysis and Design and Business Information Systems.
 

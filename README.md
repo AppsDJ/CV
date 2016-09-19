@@ -17,7 +17,7 @@ Photoshop as well as the GIMP (image manipulation).
 (classification 1st Class with distinction)
 
 ## RELEVANT WORK HISTORY
-##### Freelance Web Designer
+### Freelance Web Designer
 ( portfolio website at www.appsdj.com )
 
 - Creating various web sites according to client specification in a timely manner and to a high standard of professionalism, conforming to the highest web standards of usability using valid XHTML, CSS, JavaScript, jQuery and content management systems such as Joomla and CMS Made Simple.
@@ -28,14 +28,14 @@ Photoshop as well as the GIMP (image manipulation).
 
 - Maintaining and updating existing web sites as and when requested by clients: uploading new graphical, video and textual content, modifying existing material.
 
-#### Lastminute.com  - Hotels Department – London. UK
+### Lastminute.com  - Hotels Department – London. UK
 ##### Sales and Business Performance Analyst - Summer Studentship
 
 - Provided highly efficient sales and business performance analysis on the monthly bookings of hotels and holiday packages
 
 - Run reports in Excel to organize analysis reports for presentation to management
 
-## Education
+## EDUCATION
 
 ### Edge Hill University, Ormskirk, UK
 ##### BSc. Honours in Web Systems Development (classification 2:1)

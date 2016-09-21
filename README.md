@@ -11,16 +11,14 @@ A hard working and meticulous web developer / designer, flexible and adaptable t
 - Good web and graphic design skills using HTML, CSS, Adobe Dreamweaver and
 Photoshop as well as the GIMP (image manipulation).
 - Intermediate JavaScript, PHP, MySQL, XML and Java programming skills
-- BSc. Honours in Web Systems Development
- (classification 2:1)
-- Higher Education Certificate in Computing and Information Systems
-(classification 1st Class with distinction)
+- BSc. Honours in Web Systems Development (classification 2:1)
+- Higher Education Certificate in Computing and Information Systems (classification 1st Class with distinction)
 
 ## RELEVANT WORK HISTORY
 ### Freelance Web Designer
 ( portfolio website at www.appsdj.com )
 
-- Creating various web sites according to client specification in a timely manner and to a high standard of professionalism, conforming to the highest web standards of usability using valid XHTML, CSS, JavaScript, jQuery and content management systems such as Joomla and CMS Made Simple.
+- Creating various web sites according to client specification in a timely manner and to a high standard of professionalism, conforming to the highest web standards of usability using valid HTML, CSS, JavaScript, jQuery and content management systems such as Joomla and CMS Made Simple.
 
 - Performing efficient business analysis and market research for clients to support the completion of relevant design and development projects.
 

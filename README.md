@@ -46,7 +46,7 @@ Accelerated learning with the highly selective coding bootcamp with a strong emp
  </tr>
 </table>
 
-<table>
+<table style="text-align: left; width: 70%">
  <tr>
    <th>Github</th>
  </tr>
@@ -57,7 +57,7 @@ Accelerated learning with the highly selective coding bootcamp with a strong emp
  </tr>
 </table>
 
-<table>
+<table style="text-align: left; width: 70%">
  <tr>
    <th>Pair Programming</th>
  </tr>

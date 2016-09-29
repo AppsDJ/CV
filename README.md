@@ -47,10 +47,10 @@ Accelerated learning with the highly selective coding bootcamp with a strong emp
 </table>
 
 <table style="width:100%">
- <tr style="text-align: left;">
-   <th>Github</th>
+ <tr>
+   <th style="text-align: left;">Github</th>
  </tr>
- <tr style="text-align: left;">
+ <tr>
    <td>
     Versioned and collaborated efficiently while cloning / forking / branching, pulling / pushing / pull-requesting / merging as well as resolving merge conflicts
    </td>
@@ -59,7 +59,7 @@ Accelerated learning with the highly selective coding bootcamp with a strong emp
 
 <table style="width:100%">
  <tr>
-   <th>Pair Programming</th>
+   <th style="text-align: left;">Pair Programming</th>
  </tr>
  <tr>
    <td>

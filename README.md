@@ -77,7 +77,7 @@ A job board for volunteer opportunities enabling users to search existing offeri
  </tr>
  <tr>
    <td>
-    Git-ponged with remote coding partners 5 days a week for 12 weeks on training projects and on The Finals (see below)
+    Git-ponged with remote coding partners 5 days a week for 12 weeks on training projects and on The Finals (see above)
    </td>
  </tr>
 </table>
@@ -93,7 +93,7 @@ A specialised degree programme focused on the theories and engineering practices
 Successfully studied toward and completed the undergraduate certification with a distinction. Modules studied include Java Programming, Object-Oriented Analysis and Design and Business Information Systems.
 
 ## RELEVANT WORK HISTORY
-### Freelance Web Designer
+### Freelance Web Designer (2004 - 2016)
 ( portfolio website at www.appsdj.com )
 
 - Creating various web sites according to client specification in a timely manner and to a high standard of professionalism, conforming to the highest web standards of usability using valid HTML, CSS, JavaScript, jQuery and content management systems such as Joomla and CMS Made Simple.
@@ -103,7 +103,7 @@ Successfully studied toward and completed the undergraduate certification with a
 - Dealing with all aspects of web hosting research and implementation: researching market for best web hosting companies, securing domain names and web hosting packages for clients, setting up clients' hosting accounts and e-mail accounts for the new domains, uploading newly built web sites.
 
 ### Lastminute.com  - Hotels Department – London. UK
-##### Sales and Business Performance Analyst - Summer Studentship
+##### Sales and Business Performance Analyst - Summer Studentship (July - September 2004)
 
 - Provided highly efficient sales and business performance analysis on the monthly bookings of hotels and holiday packages
 

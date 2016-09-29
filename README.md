@@ -18,30 +18,66 @@ A hard working and meticulous web developer / designer, flexible and adaptable t
 ### Makers Academy, London, UK - remote access    (July - September 2016)
 Accelerated learning with the highly selective coding bootcamp with a strong emphasis on Agile practices, SOLID principles, Test Driven Development, 'learn-a-new-technology-overnight' skills, collaboration and fun.
 #### 'Training Period' Achievements:
-Learned| Tested with | Produced |
---|----------|--
-Ruby  |  RSpec |  Airport Simulator
-Sinatra  |  Capybara |  Rock-Scissors-Paper game
-Ruby on Rails  |  Capybara |  Instagram clone
-JavaScript  |  Jasmine |  Bowlling game
 
-Github  |
---|
-Versioned and collaborated efficiently while cloning / forking / branching, pulling / pushing / pull-requesting / merging as well as resolving merge conflicts |
+<table style="width:100%">
+ <tr>
+   <th>Learned</th>
+   <th>Tested with</th>
+   <th>Produced</th>
+ </tr>
+ <tr>
+   <td>Ruby</td>
+   <td>RSpec</td>
+   <td><a href=""> Airport Simulator </a></td>
+ </tr>
+ <tr>
+   <td>Sinatra</td>
+   <td>Capybara</td>
+   <td><a href=""> Rock-Scissors-Paper game </a></td>
+ </tr><tr>
+   <td>Ruby on Rails</td>
+   <td>Capybara</td>
+   <td><a href=""> Instagram clone </a></td>
+ </tr>
+ <tr>
+   <td>JavaScript</td>
+   <td>Jasmine</td>
+   <td><a href=""> Bowlling game </a></td>
+ </tr>
+</table>
 
-Pair Programming  |
---|
-Git-ponged with remote coding partners 5 days a week for 12 weeks on training projects as well as the Finals (see below). |
+<table style="width:100%">
+ <tr>
+   <th>Github</th>
+ </tr>
+ <tr>
+   <td>
+    Versioned and collaborated efficiently while cloning / forking / branching, pulling / pushing / pull-requesting / merging as well as resolving merge conflicts
+   </td>
+ </tr>
+</table>
+
+<table style="width:100%">
+ <tr>
+   <th>Pair Programming</th>
+ </tr>
+ <tr>
+   <td>
+    Git-ponged with remote coding partners 5 days a week for 12 weeks on training projects as well as the Finals (see below)
+   </td>
+ </tr>
+</table>
+
 
 #### 'The Finals' Achievements:
-##### Final Project: JabbyChat - a WhatsApp-like chat application
+##### Final Project: <a href=""> JabbyChat </a> - _a WhatsApp-like chat application_
 A highly scalable messaging/chat application using the XMPP protocol and ejabberd server with both an IOS and a web client enabling chat with on-the-fly translation between several languages.<br>
-**Highlights**: Research, learning of new tech (XMPP, ejabberd, Swift/XCode, XMPPFramework, APIs) and implementation of both clients achieved in just under two weeks through an excellent team effort. Other tech used: Javascript, jQuery, Bootstrap, CSS 3 and HTML 5. Oh, and GIMP / Inkscape for graphics. <br>
+**Highlights**: Research, learning of new tech (XMPP, ejabberd, Swift/XCode, XMPPFramework, APIs) and implementation of both clients achieved in just under two weeks through an excellent team effort. Other tech used: Javascript, jQuery, Bootstrap, CSS 3 and HTML 5, and GIMP / Inkscape for graphics. <br>
 **Praises** (instructor at Makers): "Your team has set the bar very high for the future cohorts".<br>
 **Personal**: First week I was involved in Research and small parts of IOS implementation, second week focused on web client with jQuery and all the web and graphic design.
 
 ##### Makerthon Project: Volunteer Matcher
-A job board for volunteer opportunities enabling users to search existing offerings as well as registering with the site and posting new offerings.<br>
+A job board for volunteer opportunities enabling users to search existing offerings as well as register with the site and post new offerings.<br>
 **Highlights**: Research, learning of new tech (Node.js, Express.js, Mongoose.js and Mocha.js and Zombie.js for TDD) and implementation achieved in just 4 days through, again, an excellent team effort.
 
 ### Edge Hill University, Ormskirk, UK    (2009 - 2012)

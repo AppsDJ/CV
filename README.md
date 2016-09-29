@@ -46,9 +46,9 @@ Accelerated learning with the highly selective coding bootcamp with a strong emp
  </tr>
 </table>
 
-<table align="left">
+<table>
  <tr>
-   <th>Github</th>
+   <th align="left">Github</th>
  </tr>
  <tr>
    <td>
@@ -57,9 +57,9 @@ Accelerated learning with the highly selective coding bootcamp with a strong emp
  </tr>
 </table>
 
-<table align="left">
+<table>
  <tr>
-   <th>Pair Programming</th>
+   <th align="left">Pair Programming</th>
  </tr>
  <tr>
    <td>
@@ -67,8 +67,7 @@ Accelerated learning with the highly selective coding bootcamp with a strong emp
    </td>
  </tr>
 </table>
-<br>
-<br>
+
 #### 'The Finals' Achievements:
 ##### Final Project: <a href=""> JabbyChat </a> - _a WhatsApp-like chat application_
 A highly scalable messaging/chat application using the XMPP protocol and ejabberd server with both an IOS and a web client enabling chat with on-the-fly translation between several languages.<br>

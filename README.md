@@ -70,13 +70,13 @@ Accelerated learning with the highly selective coding bootcamp with a strong emp
 
 #### 'The Finals' Achievements:
 
-##### Final Project: <a href=""> JabbyChat </a> - _a WhatsApp-like chat application_
+**Final Project: <a href="">JabbyChat</a> - _a WhatsApp-like chat application_**
 A highly scalable messaging/chat application using the XMPP protocol and ejabberd server with both an IOS and a web client enabling chat with on-the-fly translation between several languages.<br><br>
 **Highlights**: Research, learning of new tech (XMPP, ejabberd, Swift/XCode, XMPPFramework, APIs) and implementation of both clients achieved in just under two weeks through an excellent team effort. Other tech used: Javascript, jQuery, Bootstrap, CSS 3 and HTML 5, and GIMP / Inkscape for graphics. <br><br>
 **Praises** (Roy @ Makers): "Your team has set the bar very high for the future cohorts".<br><br>
 **Personal**: First week I was involved in Research and small parts of IOS implementation, second week focused on web client with jQuery and all the web and graphic design.
 
-##### Makerthon Project: Volunteer Matcher
+**Makerthon Project: <a href="">Volunteer Matcher</a>**
 A job board for volunteer opportunities enabling users to search existing offerings as well as register with the site and post new offerings.<br>
 **Highlights**: Research, learning of new tech (Node.js, Express.js, Mongoose.js and Mocha.js and Zombie.js for TDD) and implementation achieved in just 4 days through, again, an excellent team effort.
 

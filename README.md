@@ -46,7 +46,7 @@ Accelerated learning with the highly selective coding bootcamp with a strong emp
  </tr>
 </table>
 
-<table>
+<table width="400">
  <tr>
    <th align="left">Github</th>
  </tr>
@@ -57,13 +57,13 @@ Accelerated learning with the highly selective coding bootcamp with a strong emp
  </tr>
 </table>
 
-<table>
+<table width="400">
  <tr>
    <th align="left">Pair Programming</th>
  </tr>
  <tr>
    <td>
-    Git-ponged with remote coding partners 5 days a week for 12 weeks on training projects as well as the Finals (see below)
+    Git-ponged with remote coding partners 5 days a week for 12 weeks on training projects and on The Finals (see below)
    </td>
  </tr>
 </table>
@@ -72,7 +72,7 @@ Accelerated learning with the highly selective coding bootcamp with a strong emp
 ##### Final Project: <a href=""> JabbyChat </a> - _a WhatsApp-like chat application_
 A highly scalable messaging/chat application using the XMPP protocol and ejabberd server with both an IOS and a web client enabling chat with on-the-fly translation between several languages.<br>
 **Highlights**: Research, learning of new tech (XMPP, ejabberd, Swift/XCode, XMPPFramework, APIs) and implementation of both clients achieved in just under two weeks through an excellent team effort. Other tech used: Javascript, jQuery, Bootstrap, CSS 3 and HTML 5, and GIMP / Inkscape for graphics. <br>
-**Praises** (instructor at Makers): "Your team has set the bar very high for the future cohorts".<br>
+**Praises** (Roy @ Makers): "Your team has set the bar very high for the future cohorts".<br>
 **Personal**: First week I was involved in Research and small parts of IOS implementation, second week focused on web client with jQuery and all the web and graphic design.
 
 ##### Makerthon Project: Volunteer Matcher

@@ -46,7 +46,7 @@ Accelerated learning with the highly selective coding bootcamp with a strong emp
  </tr>
 </table>
 
-<table style="text-align: left; width: 70%">
+<table align="left" width="70%">
  <tr>
    <th>Github</th>
  </tr>
@@ -57,7 +57,7 @@ Accelerated learning with the highly selective coding bootcamp with a strong emp
  </tr>
 </table>
 
-<table style="text-align: left; width: 70%">
+<table align="left" width="70%">
  <tr>
    <th>Pair Programming</th>
  </tr>
@@ -67,7 +67,7 @@ Accelerated learning with the highly selective coding bootcamp with a strong emp
    </td>
  </tr>
 </table>
-
+<br>
 
 #### 'The Finals' Achievements:
 ##### Final Project: <a href=""> JabbyChat </a> - _a WhatsApp-like chat application_

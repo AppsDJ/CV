@@ -67,7 +67,7 @@ Accelerated learning with the highly selective coding bootcamp with a strong emp
    </td>
  </tr>
 </table>
-<br>
+
 #### 'The Finals' Achievements:
 
 * ##### Final Project: <a href=""> JabbyChat </a> - _a WhatsApp-like chat application_

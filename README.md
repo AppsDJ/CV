@@ -19,7 +19,7 @@ A hard working and meticulous web developer / designer, flexible and adaptable t
 Accelerated learning with the highly selective coding bootcamp with a strong emphasis on Agile practices, SOLID principles, Test Driven Development, 'learn-a-new-technology-overnight' skills, collaboration and fun.
 #### 'Training Period' Achievements:
 
-<table style="width:100%">
+<table>
  <tr>
    <th>Learned</th>
    <th>Tested with</th>
@@ -46,9 +46,9 @@ Accelerated learning with the highly selective coding bootcamp with a strong emp
  </tr>
 </table>
 
-<table style="width:60%">
+<table>
  <tr>
-   <th style="text-align: left;">Github</th>
+   <th>Github</th>
  </tr>
  <tr>
    <td>
@@ -57,9 +57,9 @@ Accelerated learning with the highly selective coding bootcamp with a strong emp
  </tr>
 </table>
 
-<table style="width:60%">
+<table>
  <tr>
-   <th style="text-align: left;">Pair Programming</th>
+   <th>Pair Programming</th>
  </tr>
  <tr>
    <td>

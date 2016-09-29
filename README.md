@@ -18,7 +18,7 @@ A hard working and meticulous web developer / designer, flexible and adaptable t
 ### Makers Academy, London, UK - remote access    (July - September 2016)
 Accelerated learning with the highly selective coding bootcamp with a strong emphasis on Agile practices, SOLID principles, Test Driven Development, 'learn-a-new-technology-overnight' skills, collaboration and fun.
 
-#### <kbd>'Training Period' Achievements</kbd>:
+#### <span style="text-decoration: underline">'Training Period' Achievements</span>:
 
 <table>
  <tr>
@@ -69,7 +69,7 @@ Accelerated learning with the highly selective coding bootcamp with a strong emp
  </tr>
 </table>
 
-#### <kbd>'The Finals' Achievements</kbd>:
+#### <span style="text-decoration: underline">'The Finals' Achievements</span>:
 
 **Final Project: <a href="">JabbyChat</a> - _a WhatsApp-like chat application_** <br>
 A highly scalable messaging/chat application using the XMPP protocol and ejabberd server with both an IOS and a web client enabling chat with on-the-fly translation between several languages.<br>

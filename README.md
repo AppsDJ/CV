@@ -10,14 +10,15 @@ A hard working and meticulous web developer / designer, flexible and adaptable t
 - Effective oral and written communication skills at all levels
 - Good web and graphic design skills using HTML 5, CSS 3, Photoshop + Illustrator and GIMP + Inkscape.
 - Intermediate coding skills using JavaScript / jQuery, PHP, MySQL, Ruby, Sinatra and Ruby on Rails.
-- BSc. Honours in Web Systems Development (classification 2:1)
-- Higher Education Certificate in Computing and Information Systems (classification 1st Class with distinction)
+- BSc. Honours in Web Systems Development (2:1)
+- Higher Education Certificate in Computing and Information Systems (1st Class with Distinction)
 
 ## EDUCATION AND TRAINING
 
 ### Makers Academy, London, UK - remote access    (July - September 2016)
 Accelerated learning with the highly selective coding bootcamp with a strong emphasis on Agile practices, SOLID principles, Test Driven Development, 'learn-a-new-technology-overnight' skills, collaboration and fun.
-#### 'Training Period' Achievements:
+
+#### <kbd>'Training Period' Achievements</kbd>:
 
 <table>
  <tr>
@@ -68,7 +69,7 @@ Accelerated learning with the highly selective coding bootcamp with a strong emp
  </tr>
 </table>
 
-#### 'The Finals' Achievements:
+#### <kbd>'The Finals' Achievements</kbd>:
 
 **Final Project: <a href="">JabbyChat</a> - _a WhatsApp-like chat application_** <br>
 A highly scalable messaging/chat application using the XMPP protocol and ejabberd server with both an IOS and a web client enabling chat with on-the-fly translation between several languages.<br>

@@ -16,7 +16,7 @@ A hard working and meticulous web developer / designer, flexible and adaptable t
 
 ## EDUCATION AND TRAINING
 
-### Google Developer Scholarship - Android Basics Nanodegree with Udacity (February - August 2018)
+### Google Developer Scholarship - Android Basics Nanodegree with Udacity (Feb - August 2018)
 
 Produced several quality Android applications (basic to Intermediate in complexity) as part of the Nanodegree training while following the best practices and latest trends in Android technology.
 Sample applications: <a href="https://github.com/AppsDJ/OlympicGamesQuiz">Olympic Games Quiz</a>, <a href="https://github.com/AppsDJ/TourGuide">Tour Guide</a>.

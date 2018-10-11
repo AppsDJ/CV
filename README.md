@@ -37,7 +37,7 @@ A job board for volunteer opportunities enabling users to search existing offeri
 **Highlights**: Research, learning of new tech (Node.js, Express.js, Mongoose.js and Mocha.js and Zombie.js for TDD) and implementation achieved in just 4 days through, again, an excellent team effort.
 
 
-#### 'Training Period' Achievements:
+#### 'Training Period' Achievements while learning:
 
 <table>
  <tr>
@@ -53,16 +53,16 @@ A job board for volunteer opportunities enabling users to search existing offeri
  <tr>
    <td>Sinatra</td>
    <td>Capybara</td>
-   <td><a href=""> Rock-Scissors-Paper game </a></td>
+   <td><a href="https://github.com/AppsDJ/rps-challenge"> Rock-Scissors-Paper game </a></td>
  </tr><tr>
    <td>Ruby on Rails</td>
    <td>Capybara</td>
-   <td><a href=""> Instagram clone </a></td>
+   <td><a href="https://github.com/AppsDJ/instagram-challenge"> Instagram clone </a></td>
  </tr>
  <tr>
    <td>JavaScript</td>
    <td>Jasmine</td>
-   <td><a href=""> Bowlling game </a></td>
+   <td><a href="https://github.com/AppsDJ/bowling-challenge"> Bowlling game </a></td>
  </tr>
 </table>
 

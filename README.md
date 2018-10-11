@@ -8,9 +8,9 @@ A hard working and meticulous web developer / designer, flexible and adaptable t
 - Bag-loads of common sense and the ability to think outside the box
 - Competent problem solver with a keen analytical and logical mind
 - Effective oral and written communication skills at all levels
-- Good web and graphic design skills using HTML 5, CSS 3, Photoshop + Illustrator and GIMP + Inkscape.
-- Intermediate Android development and good Object-Oriented Programming skills using Java
-- Intermediate coding skills using JavaScript / jQuery, PHP, MySQL, Ruby, Sinatra and Ruby on Rails.
+- Good Web and Graphic Design skills using HTML 5, CSS 3, Photoshop + Illustrator and GIMP + Inkscape.
+- Intermediate Android Development and good Object-Oriented Programming skills using Java
+- Intermediate Web Development skills using JavaScript/jQuery, PHP, MySQL, Sinatra and Ruby on Rails.
 - BSc. Honours in Web Systems Development (2:1)
 - Higher Education Certificate in Computing and Information Systems (1st Class with Distinction)
 

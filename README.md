@@ -9,24 +9,30 @@ A hard working and meticulous web developer / designer, flexible and adaptable t
 - Competent problem solver with a keen analytical and logical mind
 - Effective oral and written communication skills at all levels
 - Good web and graphic design skills using HTML 5, CSS 3, Photoshop + Illustrator and GIMP + Inkscape.
+- Intermediate Android development and good Object-Oriented Programming skills using Java
 - Intermediate coding skills using JavaScript / jQuery, PHP, MySQL, Ruby, Sinatra and Ruby on Rails.
 - BSc. Honours in Web Systems Development (2:1)
 - Higher Education Certificate in Computing and Information Systems (1st Class with Distinction)
 
 ## EDUCATION AND TRAINING
 
+### Google Developer Scholarship - Android Basics Nanodegree with Udacity (February - August 2018)
+
+Produced several quality Android applications (basic to Intermediate in complexity) as part of the Nanodegree training following best practices and latest trends in Android technology.
+Sample applications: <a href="https://github.com/AppsDJ/OlympicGamesQuiz">Olympic Games Quiz</a>, <a href="https://github.com/AppsDJ/TourGuide>Tour Guide</a>.
+
 ### Makers Academy, London, UK - remote access    (July - September 2016)
 Accelerated learning with the highly selective coding bootcamp with a strong emphasis on Agile practices, SOLID principles, Test Driven Development, 'learn-a-new-technology-overnight' skills, collaboration and fun.
 
 #### 'The Finals' Achievements:
 
-* **Final Project: <a href="">JabbyChat</a>** <br>
+* **Final Project: <a href="https://github.com/WhatsApe">JabbyChat</a>** <br>
 A highly scalable WhatsApp-like messaging/chat application using the XMPP protocol and ejabberd server, with both an IOS and a web client enabling chat with on-the-fly translation between several languages.<br>
 **Highlights**: Research, learning of new tech (XMPP, ejabberd, Swift/XCode, XMPPFramework, APIs) and implementation of both clients achieved in just under two weeks through an excellent team effort. Other tech used: Javascript, jQuery, Bootstrap, CSS 3 and HTML 5, and GIMP / Inkscape for graphics. <br>
 **Praises** (Roy @ Makers): "Your team has set the bar very high for the future cohorts".<br>
 **Personal**: First week I was involved in Research and small parts of IOS implementation, second week focused on web client with jQuery and all the web and graphic design.
 
-* **Makerthon Project: <a href="">Volunteer Matcher</a>** <br>
+* **Makerthon Project: <a href="https://github.com/arukompas/volunteer-matcher">Volunteer Matcher</a>** <br>
 A job board for volunteer opportunities enabling users to search existing offerings as well as register with the site and post new offerings.<br>
 **Highlights**: Research, learning of new tech (Node.js, Express.js, Mongoose.js and Mocha.js and Zombie.js for TDD) and implementation achieved in just 4 days through, again, an excellent team effort.
 

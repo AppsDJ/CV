@@ -19,7 +19,7 @@ A hard working and meticulous web developer / designer, flexible and adaptable t
 ### Google Developer Scholarship - Android Basics Nanodegree with Udacity (February - August 2018)
 
 Produced several quality Android applications (basic to Intermediate in complexity) as part of the Nanodegree training following best practices and latest trends in Android technology.
-Sample applications: <a href="https://github.com/AppsDJ/OlympicGamesQuiz">Olympic Games Quiz</a>, <a href="https://github.com/AppsDJ/TourGuide>Tour Guide</a>.
+Sample applications: <a href="https://github.com/AppsDJ/OlympicGamesQuiz">Olympic Games Quiz</a>, <a href="https://github.com/AppsDJ/TourGuide">Tour Guide</a>.
 
 ### Makers Academy, London, UK - remote access    (July - September 2016)
 Accelerated learning with the highly selective coding bootcamp with a strong emphasis on Agile practices, SOLID principles, Test Driven Development, 'learn-a-new-technology-overnight' skills, collaboration and fun.

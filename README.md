@@ -1,5 +1,5 @@
 # Titus Iudean
-A hard working and meticulous web developer / designer, flexible and adaptable to fit in well into most working environments. A quick learning self-starter who's not waiting to be told what needs doing, with a creative mindset and a keen interest in recent technologies. A trustworthy and helpful team player and effective communicator who loves being highly involved and always strives to succeed in whatever is undertaken. In search of opportunities to make positive contributions to great software projects in a Junior Developer position, while further enhancing personal skill-set.
+A hard working and meticulous web developer / designer, flexible and adaptable to fit in well into most working environments. A quick learning self-starter who's not waiting to be told what needs doing, with a creative mindset and a keen interest in recent technologies. A trustworthy, helpful team player and effective communicator who loves being highly involved and always strives to succeed in whatever is undertaken. In search of opportunities to make positive contributions to great software projects in a Junior/Mid Developer position, while further enhancing personal skill-set.
 
 ### KEY SKILLS AND ACHIEVEMENTS
 ( portfolio website at www.appsdj.com )
